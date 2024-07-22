@@ -1,9 +1,76 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "todos": [
+    {
+      "completed": true,
+      "id": "1"
+    },
+    {
+      "completed": true,
+      "id": "2"
+    },
+    {
+      "todo": "Make breakfast",
+      "id": "3"
+    },
+    {
+      "todo": "Begin school project",
+      "id": "4"
+    },
+    {
+      "completed": true,
+      "id": "6"
+    },
+    {
+      "completed": true,
+      "id": "7"
+    },
+    {
+      "completed": true,
+      "id": "20a1"
+    },
+    {
+      "completed": true,
+      "id": "4cf3"
+    },
+    {
+      "completed": true,
+      "id": "f5be"
+    },
+    {
+      "completed": true,
+      "id": "9dd0"
+    },
+    {
+      "completed": true,
+      "id": "8492"
+    },
+    {
+      "completed": true,
+      "id": "3d0d"
+    },
+    {
+      "completed": true,
+      "id": "18df"
+    },
+    {
+      "completed": true,
+      "id": "97b4"
+    },
+    {
+      "completed": false,
+      "id": "55f9"
+    },
+    {
+      "todo": "Dinner with Jane",
+      "id": "50d8"
+    },
+    {
+      "todo": "buy food",
+      "id": "6dbc"
+    },
+    {
+      "todo": "hey",
+      "id": "bb01"
+    }
+  ]
 }
